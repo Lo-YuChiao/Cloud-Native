@@ -15,3 +15,4 @@ The project of the course: "Cloud Native Development: towards Best Practice"
 * [Overview](https://www.figma.com/file/qbXvVCPwZjpdeMViuHousL/I'm-Uber-ver.2?node-id=0%3A1&t=xeWR0Qt9vekcb2T9-1)
 
 ## Architecture
+![image](https://github.com/Lo-YuChiao/Cloud-Native/blob/main/309553055_%E7%BE%85%E5%8F%B3%E5%96%AC_%E9%9B%B2%E5%8E%9F%E7%94%9F%E6%9C%9F%E4%B8%AD%E4%BD%9C%E6%A5%AD%20(1).png)
